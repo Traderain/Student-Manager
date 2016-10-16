@@ -1,0 +1,27 @@
+c:\users\bence\documents\visual studio 2015\Projects\OKJ2.0\OKJ2.0\bin\Debug\OKJ2.0.exe.config
+c:\users\bence\documents\visual studio 2015\Projects\OKJ2.0\OKJ2.0\bin\Debug\OKJ2.0.exe
+c:\users\bence\documents\visual studio 2015\Projects\OKJ2.0\OKJ2.0\bin\Debug\OKJ2.0.pdb
+c:\users\bence\documents\visual studio 2015\Projects\OKJ2.0\OKJ2.0\obj\Debug\OKJ2.0.csprojResolveAssemblyReference.cache
+c:\users\bence\documents\visual studio 2015\Projects\OKJ2.0\OKJ2.0\obj\Debug\OKJ2._0.Properties.Resources.resources
+c:\users\bence\documents\visual studio 2015\Projects\OKJ2.0\OKJ2.0\obj\Debug\OKJ2.0.csproj.GenerateResource.Cache
+c:\users\bence\documents\visual studio 2015\Projects\OKJ2.0\OKJ2.0\obj\Debug\OKJ2.0.exe
+c:\users\bence\documents\visual studio 2015\Projects\OKJ2.0\OKJ2.0\obj\Debug\OKJ2.0.pdb
+C:\Users\Bence\documents\visual studio 2015\Projects\OKJ2.0\OKJ2.0\obj\Debug\OKJ2._0.Main.resources
+C:\Users\Bence\documents\visual studio 2015\Projects\OKJ2.0\OKJ2.0\obj\Debug\OKJ2._0.tanulo.resources
+C:\Users\Bence\documents\visual studio 2015\Projects\OKJ2.0\OKJ2.0\obj\Debug\OKJ2._0.Befizet.resources
+C:\Users\Bence\documents\visual studio 2015\Projects\OKJ2.0\OKJ2.0\obj\Debug\OKJ2._0.befizetesdialog.resources
+C:\Users\Traderai\Desktop\OKJ2.0\OKJ2.0\bin\Debug\OKJ2.0.exe.config
+C:\Users\Traderai\Desktop\OKJ2.0\OKJ2.0\obj\Debug\OKJ2.0.exe
+C:\Users\Traderai\Desktop\OKJ2.0\OKJ2.0\obj\Debug\OKJ2.0.pdb
+C:\Users\Traderai\Desktop\OKJ2.0\OKJ2.0\bin\Debug\OKJ2.0.exe
+C:\Users\Traderai\Desktop\OKJ2.0\OKJ2.0\bin\Debug\OKJ2.0.pdb
+C:\Users\Traderai\Desktop\OKJ2.0\OKJ2.0\obj\Debug\OKJ2.0.csprojResolveAssemblyReference.cache
+C:\Users\Traderai\Desktop\OKJ2.0\OKJ2.0\obj\Debug\OKJ2._0.Befizet.resources
+C:\Users\Traderai\Desktop\OKJ2.0\OKJ2.0\obj\Debug\OKJ2._0.befizetesdialog.resources
+C:\Users\Traderai\Desktop\OKJ2.0\OKJ2.0\obj\Debug\OKJ2._0.Main.resources
+C:\Users\Traderai\Desktop\OKJ2.0\OKJ2.0\obj\Debug\OKJ2._0.Properties.Resources.resources
+C:\Users\Traderai\Desktop\OKJ2.0\OKJ2.0\obj\Debug\OKJ2._0.Tanulo.resources
+C:\Users\Traderai\Desktop\OKJ2.0\OKJ2.0\obj\Debug\OKJ2.0.csproj.GenerateResource.Cache
+F:\Githubrepos\Student-Manager\OKJ2.0\bin\Debug\OKJ2.0.exe.config
+F:\Githubrepos\Student-Manager\OKJ2.0\obj\Debug\OKJ2.0.exe
+F:\Githubrepos\Student-Manager\OKJ2.0\obj\Debug\OKJ2.0.pdb
